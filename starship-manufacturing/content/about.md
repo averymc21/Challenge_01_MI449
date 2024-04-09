@@ -3,7 +3,7 @@ title = 'About'
 date = 2024-04-08T22:08:51-04:00
 draft = true
 +++
-[Home](/Challenge_01_MI449/)
+[Home](/)
 
 # About Starship Manufacturing Company
 
@@ -23,5 +23,3 @@ Meet our team of skilled engineers, designers, and astronauts who make our visio
 - Emily Williams (Astronaut Training Specialist)
 
 ---
-
-&copy; 2024 Starship Manufacturing Company. All rights reserved.

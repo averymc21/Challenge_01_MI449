@@ -3,7 +3,7 @@ title = ''
 date = 2024-04-08T22:08:36-04:00
 draft = true
 +++
-[About Us](/challenge_01_MI449/about/)
+[About](about)
 
 # Welcome to Starship Manufacturing Company
 
