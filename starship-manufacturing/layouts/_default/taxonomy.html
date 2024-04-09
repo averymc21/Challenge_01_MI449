@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>{{ .Title }}</h1>
+</header>
+
+<main>
+    <ul>
+        {{ range .Data.Pages }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+    {{ .Content }}
+</main>
+
+<footer>
+    &copy; 2024 Starship Manufacturing Company. All rights reserved.
+</footer>
+
+</body>
+</html>
