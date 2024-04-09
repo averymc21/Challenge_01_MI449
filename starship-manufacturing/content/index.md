@@ -3,7 +3,7 @@ title = ''
 date = 2024-04-08T22:08:36-04:00
 draft = true
 +++
-[About](about)
+[About](/about/)
 
 # Welcome to Starship Manufacturing Company
 
