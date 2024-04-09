@@ -23,4 +23,3 @@ Explore our latest line of starship models designed for various missions and pur
 
 ---
 
-&copy; 2024 Starship Manufacturing Company. All rights reserved.
